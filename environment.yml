@@ -1,0 +1,6 @@
+name: wim-packages
+
+dependencies:
+  - pandas
+  - requests
+  - bs4
